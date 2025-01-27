@@ -45,7 +45,7 @@ def test_vwo_login_positive(setup):
     driver = setup
     load_dotenv()
     login_page = LoginPage(driver=driver)
-    login_page.login_to_vwo(usr=os.getenv("USERNAME"), pwd=os.getenv("PASSWORD"))
+    login_page.login_to_vwo(usr=os.getenv("USER"), pwd=os.getenv("PASSWORD"))
     dashboard_page = DashboardPage(driver=driver)
     take_screen_shot(driver=driver, name="test_vwo_login_positive")
     assert os.getenv("USERNAME_LOGGED_IN") in dashboard_page.user_logged_in_text()
