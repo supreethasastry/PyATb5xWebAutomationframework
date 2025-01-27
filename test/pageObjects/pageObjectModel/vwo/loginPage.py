@@ -2,7 +2,7 @@
 import time
 
 from selenium.webdriver.common.by import By
-from test.utils.commom_utils import webdriver_wait
+from test.utils.common_utils import  webdriver_wait
 
 
 class LoginPage:
