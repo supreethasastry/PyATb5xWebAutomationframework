@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9697ca64-feb4-46b0-a7ba-637c073dd5c3" name="Changes" comment="Jan 27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/freeTrialPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/freeTrialPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwo_ login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwologin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwo_free-trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwofreetrial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "supreethasastry"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;supreethasastry&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/supreethasastry/PyATb5xWebAutomationframework.git",
-    "accountId": "2454eb18-f61c-482d-8dde-e9928238982e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/supreethasastry/PyATb5xWebAutomationframework.git&quot;,
+    &quot;accountId&quot;: &quot;2454eb18-f61c-482d-8dde-e9928238982e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -47,28 +51,17 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python tests.Python tests for test_sample.test_sample_pass.executor": "Run",
+    "Python tests.Python tests for test_vwo_ login.test_vwo_login_negative.executor": "Run",
+    "Python tests.Python tests for test_vwofreetrial.test_vwo_ft_negative.executor": "Run",
+    "Python tests.Python tests for test_vwologin.test_vwo_login_negative.executor": "Run",
     "Python tests.Python tests for test_vwologin_NotOptimized.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.test_vwo_free-trial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_vwo_free-trial.test_vwo_negative">
-    <configuration name="Python tests for test_sample.test_sample_pass" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATb5xWebAutomationframework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/sample" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_sample.test_sample_pass&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_vwo_ login.test_vwo_login_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_vwofreetrial.test_vwo_ft_negative">
+    <configuration name="Python tests for test.tests.vwoLogin.test_vwofreetrial" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATb5xWebAutomationframework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +72,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_vwo_ login.test_vwo_login_positive&quot;" />
+      <option name="_new_target" value="&quot;test.tests.vwoLogin.test_vwofreetrial&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_vwo_free-trial.test_vwo_ft_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.tests.vwoLogin.test_vwologin.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATb5xWebAutomationframework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +87,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_vwo_free-trial.test_vwo_ft_negative&quot;" />
+      <option name="_new_target" value="&quot;test.tests.vwoLogin.test_vwologin.test_vwo_login_negative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_vwo_free-trial.test_vwo_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_vwofreetrial.test_vwo_ft_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATb5xWebAutomationframework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,32 +102,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_vwo_free-trial.test_vwo_negative&quot;" />
+      <option name="_new_target" value="&quot;test_vwofreetrial.test_vwo_ft_negative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_vwologin_NotOptimized.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_vwologin.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATb5xWebAutomationframework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/vwoLogin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_vwologin_NotOptimized.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test_vwologin.test_vwo_login_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_vwo_free-trial" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="PyATb5xWebAutomationframework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/vwoLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.tests.vwoLogin.test_vwofreetrial.test_vwo_ft_negative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_vwo_free-trial.test_vwo_negative" />
-        <item itemvalue="Python tests.Python tests for test_vwo_free-trial.test_vwo_ft_negative" />
-        <item itemvalue="Python tests.Python tests for test_vwo_ login.test_vwo_login_positive" />
-        <item itemvalue="Python tests.Python tests for test_vwologin_NotOptimized.test_app_vwo_login_chrome" />
-        <item itemvalue="Python tests.Python tests for test_sample.test_sample_pass" />
+        <item itemvalue="Python tests.Python tests for test_vwofreetrial.test_vwo_ft_negative" />
+        <item itemvalue="Python tests.Python tests for test_vwologin.test_vwo_login_negative" />
+        <item itemvalue="Python tests.test_vwo_free-trial" />
+        <item itemvalue="Python tests.Python tests for test.tests.vwoLogin.test_vwologin.test_vwo_login_negative" />
+        <item itemvalue="Python tests.Python tests for test.tests.vwoLogin.test_vwofreetrial" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737962179716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Jan 27">
+      <option name="closed" value="true" />
+      <created>1737962726306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737962726306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -171,5 +187,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jan 27" />
     <option name="LAST_COMMIT_MESSAGE" value="Jan 27" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/tests/vwoLogin/test_vwologin.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/tests/vwoLogin/test_vwofreetrial.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

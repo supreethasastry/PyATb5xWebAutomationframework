@@ -1,22 +1,19 @@
-import allure
-import pytest
-import time
-
-from selenium import webdriver
-
 # Assertions and use the Page Object class
 
 # Webdriver Start
 # User Interaction + Assertions
 # Close Webdriver
 
-
+from selenium import webdriver
 from test.constants.constants import Constants
 from test.pageObjects.pageObjectModel.vwo.loginPage import LoginPage
 from test.pageObjects.pageObjectModel.vwo.dashboardPage import DashboardPage
 from dotenv import load_dotenv
 import os
 from test.utils.Utils import *
+import allure
+import pytest
+import time
 
 
 @pytest.fixture()
@@ -46,6 +43,7 @@ def test_vwo_login_negative(setup):
 @pytest.mark.positive
 def test_vwo_login_positive(setup):
     driver = setup
+    load_dotenv()
     login_page = LoginPage(driver=driver)
     login_page.login_to_vwo(usr=os.getenv("USERNAME"), pwd=os.getenv("PASSWORD"))
     dashboard_page = DashboardPage(driver=driver)
