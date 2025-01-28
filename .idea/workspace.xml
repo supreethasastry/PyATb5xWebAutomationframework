@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9697ca64-feb4-46b0-a7ba-637c073dd5c3" name="Changes" comment="Jan 27">
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageFactory/dashboard_PF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageFactory/loginPage_PF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/vwoLogin/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwologin_pf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwologin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwologin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python tests.Python tests for test_sample.test_sample_pass.executor": "Run",
-    "Python tests.Python tests for test_vwo_ login.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_vwofreetrial.test_vwo_ft_negative.executor": "Run",
-    "Python tests.Python tests for test_vwologin.test_vwo_login_negative.executor": "Run",
-    "Python tests.Python tests for test_vwologin.test_vwo_login_positive.executor": "Run",
-    "Python tests.Python tests for test_vwologin_NotOptimized.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.test_vwo_free-trial.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_sample.test_sample_pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwo_ login.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwofreetrial.test_vwo_ft_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwologin.test_vwo_login_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwologin.test_vwo_login_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_vwologin_NotOptimized.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.test_vwo_free-trial.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_vwologin.test_vwo_login_positive">
     <configuration name="Python tests for test.tests.vwoLogin.test_vwologin.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATb5xWebAutomationframework" />
@@ -184,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737965327508</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Jan 27">
+      <option name="closed" value="true" />
+      <created>1737965818988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737965818988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
